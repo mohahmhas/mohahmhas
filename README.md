@@ -5,6 +5,11 @@
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&pause=1000&color=000000&width=435&lines=Hi+there%2C+I'm+Mohamed+Ahmed+Hassan+%F0%9F%91%8B" alt="Typing SVG">
 </h1>
+## 📫 Contact Me  
+- 📧 Email: [mohamed.graps@gmail.com](mailto:mohamed.graps@gmail.com)  
+- 💼 LinkedIn: [Mohamed Hassan](https://www.linkedin.com/in/mohamed-hassan-a801a7187/)  
+- 🏡 Location: Ain Shams, Cairo  
+- 🌍 GitHub: [@mohahmhas](https://github.com/mohahmhas?tab=repositories)  
 
 ## 🚀 About Me  
 Experienced Flutter developer with over 4 years of expertise in building high-performance mobile applications for both Android and iOS. Passionate about clean architecture, state management, and performance optimization.
@@ -12,14 +17,14 @@ Experienced Flutter developer with over 4 years of expertise in building high-pe
 ## 🛠️ Technical Skills  
 
 ### 💻 Programming Languages  
-- ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white) **Dart**
-- ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) **Flutter**
+- ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white) 
+- ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) 
 
 ### ⚙️ Development Tools  
-- ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) **VS Code**
-- ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) **Git & GitHub**
-- ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black) **Firebase**
-- ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white) **SQLite**
+- ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) 
+- ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) 
+- ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black) 
+- ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white) 
 
 ### 🏗️ Architecture & Design Patterns  
 - **MVVM**  
@@ -29,13 +34,13 @@ Experienced Flutter developer with over 4 years of expertise in building high-pe
 - **Object-Oriented Programming (OOP)**  
 
 ### 🌐 API Integration  
-- ![REST API](https://img.shields.io/badge/REST-02569B?style=for-the-badge&logo=postman&logoColor=white) **REST APIs**  
+- **REST APIs**  
 - **JSON Parsing**  
 
 ### 📌 State Management  
-- ![GetX](https://img.shields.io/badge/GetX-FFC107?style=for-the-badge&logo=getx&logoColor=black) **GetX**  
-- ![Bloc](https://img.shields.io/badge/Bloc-00A8E1?style=for-the-badge&logo=flutter&logoColor=white) **Bloc**  
-- ![Provider](https://img.shields.io/badge/Provider-4CAF50?style=for-the-badge&logo=flutter&logoColor=white) **Provider**  
+- ![GetX](https://img.shields.io/badge/GetX-FFC107?style=for-the-badge&logo=getx&logoColor=black) 
+- ![Bloc](https://img.shields.io/badge/Bloc-00A8E1?style=for-the-badge&logo=flutter&logoColor=white)   
+- ![Provider](https://img.shields.io/badge/Provider-4CAF50?style=for-the-badge&logo=flutter&logoColor=white) 
 
 ### 🧪 Testing  
 - ✅ **Unit Testing**  
@@ -63,8 +68,4 @@ A job search platform supporting localization and filtering by job type and expe
 - **English:** Fluent  
 - **Arabic:** Native  
 
-## 📫 Contact Me  
-- 📧 Email: [mohamed.graps@gmail.com](mailto:mohamed.graps@gmail.com)  
-- 💼 LinkedIn: [Mohamed Hassan](https://www.linkedin.com/in/mohamed-hassan-a801a7187/)  
-- 🏡 Location: Ain Shams, Cairo  
-- 🌍 GitHub: [@mohahmhas](https://github.com/mohahmhas?tab=repositories)  
+
