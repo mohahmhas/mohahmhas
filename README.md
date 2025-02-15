@@ -1,9 +1,3 @@
-/*
-<p align="center">
-  <img src="https://cdn-icons-png.flaticon.com/512/1995/1995542.png" width="150" alt="Programmer Avatar">
-</p> */
-
-
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&pause=1000&color=000000&width=435&lines=Hi+there%2C+I'm+Mohamed+Ahmed+Hassan+%F0%9F%91%8B" alt="Typing SVG">
 </h1>
