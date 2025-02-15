@@ -1,10 +1,11 @@
 <p align="start">
   <img src="https://cdn-icons-png.flaticon.com/512/1995/1995542.png" width="150" alt="Programmer Avatar">
-</p>
-
-<h1 align="center">
+  <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2A73E5&width=435&lines=Hi+there%2C+I'm+Mohamed+Ahmed+Hassan+%F0%9F%91%8B" alt="Typing SVG">
 </h1>
+</p>
+
+
 
 ## 🚀 About Me  
 Experienced Flutter developer with over 4 years of expertise in building high-performance mobile applications for both Android and iOS. Passionate about clean architecture, state management, and performance optimization.
