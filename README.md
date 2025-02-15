@@ -1,12 +1,21 @@
-<div>
-  <p align="start">
-  <img src="https://cdn-icons-png.flaticon.com/512/1995/1995542.png" width="150" alt="Programmer Avatar">
+<div align="center">
 
-</p>
-  <h1 align="start">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&pause=1000&color=000000&width=435&lines=Hi+there%2C+I'm+Mohamed+Ahmed+Hassan+%F0%9F%91%8B" alt="Typing SVG">
-</h1>
-</div>
+<table>
+<tr>
+<td>
+<img src="https://cdn-icons-png.flaticon.com/512/1995/1995542.png" width="150" alt="Programmer Avatar">
+</td>
+<td>
+<h1 align="left">Mohamed Ahmed Hassan</h1>
+  
+📧 **Email:** [mohamed.graps@gmail.com](mailto:mohamed.graps@gmail.com)  
+💼 **LinkedIn:** [Mohamed Hassan](https://www.linkedin.com/in/mohamed-hassan-a801a7187/)  
+🏡 **Location:** Ain Shams, Cairo  
+🌍 **GitHub:** [@mohahmhas](https://github.com/mohahmhas?tab=repositories)  
+
+</td>
+</tr>
+</table>
 
 
 
