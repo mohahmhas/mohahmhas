@@ -1,11 +1,11 @@
 <div align="center">
 
-<table>
-<tr>
-<td>
+<div>
+<div>
+<div>
 <img src="https://cdn-icons-png.flaticon.com/512/1995/1995542.png" width="150" alt="Programmer Avatar">
-</td>
-<td>
+</div>
+<div>
 <h1 align="left">Mohamed Ahmed Hassan</h1>
   
 📧 **Email:** [mohamed.graps@gmail.com](mailto:mohamed.graps@gmail.com)  
@@ -13,9 +13,9 @@
 🏡 **Location:** Ain Shams, Cairo  
 🌍 **GitHub:** [@mohahmhas](https://github.com/mohahmhas?tab=repositories)  
 
-</td>
+</div>
 </tr>
-</table>
+</div>
 
 
 
