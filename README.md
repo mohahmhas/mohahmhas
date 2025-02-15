@@ -1,4 +1,4 @@
-<p align="center">
+<p align="start">
   <img src="https://cdn-icons-png.flaticon.com/512/1995/1995542.png" width="150" alt="Programmer Avatar">
 </p>
 
