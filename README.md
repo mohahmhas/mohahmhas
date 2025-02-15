@@ -1,6 +1,7 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=25&pause=1000&color=000000&width=435&lines=Hi+there%2C+I'm+Mohamed+Ahmed+Hassan+%F0%9F%91%8B" alt="Typing SVG">
-</h1>
+<div align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=28&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Mohamed+Ahmed+Hassan!+😎;" />
+</div>
+
 
 ## 📫 Contact Me  
 - 📞 01010487413 / 01113948028 (WhatsApp Available on 010)
